@@ -1,0 +1,57 @@
+.drawer_list1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    font-size: 6px;
+    color: black;
+
+}
+
+.mainBox {
+    overflow-x: hidden;
+}
+
+.box {
+    background-color: #d9e4e0;
+    height: 100vh;
+}
+
+.drawer_1st {
+    font-weight: 100;
+    font-family: serif;
+    font-size: 15px;
+}
+
+.drawer_1st a {
+    font-family: serif;
+    text-decoration: none;
+    color: #000000cb;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.iconsDrawer a {
+    padding: 7px;
+    font-size: 10px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.418);
+}
+
+.REGIONDrawer a {
+    padding: 7px;
+    line-height: 30px;
+    font-size: 18px;
+    /* background-color: aqua; */
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.418);
+}
+
+.REGIONDrawer {
+    width: 100%;
+}
+
+.hall {
+    border-bottom: 1px black solid;
+    width: 100%;
+}
